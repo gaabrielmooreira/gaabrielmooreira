@@ -41,3 +41,4 @@ Hi, i'm Gabriel, student of Full Stack Development. My first contact with this a
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaabrielmooreira&show_icons=true&theme=gotham" alt="gaabrielmooreira" />
   
+![Snake animation](https://github.com/gaabrielmooreira/gaabrielmooreira/blob/output/github-contribution-grid-snake.svg)
