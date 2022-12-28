@@ -2,11 +2,11 @@
 
 <br />
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/gaabrielmooreira">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmooreira&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaabrielmooreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+</p>
 
 
 <!-- Hi, i'm Gabriel, student of Full Stack Development. My first contact with this area was in 2011, when i was in the high school and i made a course of Computing on CEFET. And from 2019, I'm dedicating all of my time in this, and i'm really enjoying this. In my lasts 6 months, i have studied front-end, HTML,CSS,Js,ReactJs with styled-components, how to request API's and build some applications. And now i'm learning about NodeJs for back-end. -->
