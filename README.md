@@ -43,7 +43,6 @@
 </p>
 
 <br>
-
-<h2 align="center">my github stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-  
+<div align="center">
 ![Snake animation](https://github.com/gaabrielmooreira/gaabrielmooreira/blob/output/github-contribution-grid-snake.svg)
+</div>
