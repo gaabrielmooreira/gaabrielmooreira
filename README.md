@@ -11,7 +11,7 @@
 <!-- Hi, i'm Gabriel, student of Full Stack Development. My first contact with this area was in 2011, when i was in the high school and i made a course of Computing on CEFET. And from 2019, I'm dedicating all of my time in this, and i'm really enjoying this. In my lasts 6 months, i have studied front-end, HTML,CSS,Js,ReactJs with styled-components, how to request API's and build some applications. And now i'm learning about NodeJs for back-end. -->
 
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47uqmfjgrdip356x97za2ccnkdz6mjuufpsfk220cb&rid=giphy.gif&ct=s" width="50"></h2>
   
 <p align="center">
   <a href="https://skillicons.dev">
