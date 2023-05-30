@@ -38,7 +38,3 @@
     <img alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
   </a>
 </p>
-
-<br>
-  
-![Snake animation](https://github.com/gaabrielmooreira/gaabrielmooreira/blob/output/github-contribution-grid-snake.svg)
