@@ -2,9 +2,9 @@
 
 <br />
 
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=gaabrielmooreira&show_icons=true&theme=dark&line_height=27" height="280px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmooreira&theme=dark" height="280px">
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gaabrielmooreira&show_icons=true&theme=dark&line_height=27" height="250px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielmooreira&theme=dark" height="250px">
 </p>
 
 
