@@ -40,14 +40,6 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
   
 <p align="center">
-  <a href="https://www.instagram.com/gabrielmlimeira/">
-    <img alt="Gabriel's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.gg/4nJcN428">
-    <img alt="Gabriel's Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/gaabrielmooreira/">
     <img alt="Gabriel's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
